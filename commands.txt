@@ -1,0 +1,4 @@
+java -jar testrun.jar -submission=player71 -evaluation=KatsuuraEvaluation -seed=1	
+java -jar testrun.jar -submission=player71 -evaluation=SchaffersEvaluation -seed=1
+java -jar testrun.jar -submission=player71 -evaluation=BentCigarFunction -seed=1
+javac -cp contest.jar player71.java
